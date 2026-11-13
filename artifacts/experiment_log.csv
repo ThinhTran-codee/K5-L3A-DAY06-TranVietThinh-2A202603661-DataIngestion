@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"source,page,chapter,section",none,openai/text-embedding-3-small,Baseline fixed chunking may cut sentences and split gold evidence across boundaries.,10/15,14/15,2/5,2/5,"Chunks: 270, Total query time: 0.57s"
+B,by_paragraph,800,0,"source,page,chapter,section",none,openai/text-embedding-3-small,"Paragraph chunking preserves complete semantic units and context, improving retrieval accuracy.",8/15,13/15,2/5,2/5,"Chunks: 179, Total query time: 0.44s"
+C,by_paragraph,800,0,"source,page,chapter,section",section,openai/text-embedding-3-small,Applying section metadata filtering reduces search space and eliminates cross-domain false positives.,8/15,13/15,2/5,2/5,"Chunks: 179, Total query time: 0.43s"

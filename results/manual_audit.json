@@ -1,0 +1,259 @@
+{
+  "coherence": {
+    "average_a": 0.7,
+    "average_b": 2.0,
+    "average_c": 2.0,
+    "samples": [
+      {
+        "page": 19,
+        "position": "Page 19 - Mid section (Figure credit / intro)",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p19_fix_001",
+          "score": 1,
+          "reason": "Bị cắt ở giữa đoạn văn, mất phần mở đầu của đoạn nhưng câu tương đối đọc được."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p19_para_001",
+          "score": 2,
+          "reason": "Giữ trọn vẹn đoạn văn giới thiệu hoàn chỉnh, câu chữ tự hiểu và đầy đủ ngữ cảnh."
+        }
+      },
+      {
+        "page": 20,
+        "position": "Page 20 - Definition of CS & objectives",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p20_fix_001",
+          "score": 0,
+          "reason": "Bị cắt đứt đôi từ 'science' thành 'ience.' ở đầu chunk; cuối chunk bị cắt dở danh sách mục tiêu."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p20_para_001",
+          "score": 2,
+          "reason": "Bao gồm trọn vẹn đoạn giới thiệu phân hệ phần cứng và xử lý thông tin, không bị cắt từ ngữ."
+        }
+      },
+      {
+        "page": 21,
+        "position": "Page 21 - Recipe algorithm explanation",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p21_fix_001",
+          "score": 1,
+          "reason": "Bị cắt ngang bước nấu ăn trong ví dụ công thức, hiểu được một phần ý nghĩa nhưng mất ngữ cảnh đầu."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p21_para_001",
+          "score": 2,
+          "reason": "Giữ trọn ví dụ công thức làm bánh mì kẹp mứt và phân tích thuật toán, tính mạch lạc cao."
+        }
+      },
+      {
+        "page": 22,
+        "position": "Page 22 - Bellman dynamic programming",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p22_fix_001",
+          "score": 0,
+          "reason": "Bắt đầu bằng từ 'ore' (cắt từ 'more'), kết thúc bị ngắt lửng tại 'as \"the theor' làm mất nghĩa trích dẫn."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p22_para_001",
+          "score": 2,
+          "reason": "Đoạn văn hoàn chỉnh về định nghĩa Khoa học máy tính của George E. Forsythe, trọn vẹn ngữ cảnh."
+        }
+      },
+      {
+        "page": 23,
+        "position": "Page 23 - Vacuum tubes and memory",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p23_fix_001",
+          "score": 1,
+          "reason": "Bắt đầu câu không có chủ ngữ rõ ràng ('re made of physical...'), cắt mất ngữ cảnh phần cứng."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p23_para_001",
+          "score": 2,
+          "reason": "Trình bày đầy đủ khái niệm bộ nhớ và đèn chân không của máy tính ENIAC, câu cú hoàn chỉnh."
+        }
+      },
+      {
+        "page": 24,
+        "position": "Page 24 - Turing-complete machines",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p24_fix_001",
+          "score": 0,
+          "reason": "Bắt đầu bằng 'f \"Women holding...' (cắt từ 'credit: modification of'), kết thúc lửng ở 'every computer has'."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p24_para_001",
+          "score": 2,
+          "reason": "Đoạn văn trọn vẹn giải thích về Turing-complete và mô hình Turing machine của Alan Turing."
+        }
+      },
+      {
+        "page": 25,
+        "position": "Page 25 - Chaotic systems & weather",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p25_fix_001",
+          "score": 1,
+          "reason": "Mất cụm từ mở đầu, bị ngắt ở giữa câu giải thích về mạng lưới Internet."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p25_para_001",
+          "score": 2,
+          "reason": "Đoạn văn đầy đủ về sự chuyển dịch trong khoa học máy tính từ silicon sang hệ thống tương tác người-máy."
+        }
+      },
+      {
+        "page": 26,
+        "position": "Page 26 - CS Curricula & institutions",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p26_fix_001",
+          "score": 1,
+          "reason": "Hiểu được một phần về chương trình đào tạo nhưng bị cắt cụm từ chỉ thời gian."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p26_para_001",
+          "score": 2,
+          "reason": "Đoạn văn độc lập, đầy đủ chủ vị về lịch sử các khoa khoa học máy tính ban đầu."
+        }
+      },
+      {
+        "page": 27,
+        "position": "Page 27 - Charlton McIlwain Black Software",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p27_fix_001",
+          "score": 1,
+          "reason": "Bị cắt đôi danh sách nhân vật lịch sử giữa hai chunk kế tiếp."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p27_para_001",
+          "score": 2,
+          "reason": "Toàn bộ đoạn trích về cuốn sách 'Black Software' được giữ liền mạch."
+        }
+      },
+      {
+        "page": 28,
+        "position": "Page 28 - H-1B Visas and employment",
+        "strategy_a": {
+          "chunk_id": "openstax-intro-cs_p28_fix_001",
+          "score": 1,
+          "reason": "Đoạn số liệu bị ngắt làm đôi khiến việc trích xuất số liệu 26% phải dựa vào chunk trước."
+        },
+        "strategy_b": {
+          "chunk_id": "openstax-intro-cs_p28_para_001",
+          "score": 2,
+          "reason": "Giữ nguyên khối phân tích nhu cầu lao động CNTT và chính sách visa H-1B trọn vẹn."
+        }
+      }
+    ]
+  },
+  "grounding": {
+    "average_a": 1.8,
+    "average_b": 1.8,
+    "average_c": 1.8,
+    "evaluations": [
+      {
+        "question_id": "q16",
+        "question": "What physical technology did the ENIAC use instead of silicon?",
+        "gold_page": 23,
+        "strategy_a": {
+          "score": 2,
+          "reason": "Top-1 (p.23) chứa trực tiếp bằng chứng đèn chân không (vacuum tube) dù câu bị cắt dở đầu câu."
+        },
+        "strategy_b": {
+          "score": 2,
+          "reason": "Top-1 (p.23) chứa trọn vẹn câu 'Instead of silicon, the ENIAC used the technology of a vacuum tube...'; bằng chứng hoàn hảo để trả lời."
+        },
+        "strategy_c": {
+          "score": 2,
+          "reason": "Kết quả giống Strategy B, trả về đúng chunk p.23 với đầy đủ căn cứ trả lời."
+        }
+      },
+      {
+        "question_id": "q17",
+        "question": "Why did the One Laptop per Child (OLPC) educational vision fail to truly materialize?",
+        "gold_page": 29,
+        "strategy_a": {
+          "score": 2,
+          "reason": "Top-1 (p.29) chứa đúng lý do trẻ em dùng máy để giải trí hơn là học tập và thiếu hạ tầng hỗ trợ."
+        },
+        "strategy_b": {
+          "score": 2,
+          "reason": "Top-1 (p.29) cung cấp toàn bộ đoạn văn phân tích thất bại của dự án OLPC, grounding đầy đủ."
+        },
+        "strategy_c": {
+          "score": 2,
+          "reason": "Giống Strategy B, đầy đủ ngữ cảnh và bằng chứng xác thực."
+        }
+      },
+      {
+        "question_id": "q18",
+        "question": "What role does scientific evaluation play in human-computer interaction (HCI)?",
+        "gold_page": 33,
+        "strategy_a": {
+          "score": 1,
+          "reason": "Top-3 trả về trang 43 (định nghĩa chung về HCI), có liên quan đến HCI nhưng thiếu đoạn bằng chứng chuyên sâu về vai trò khoa học tại trang 33."
+        },
+        "strategy_b": {
+          "score": 1,
+          "reason": "Top-3 trả về trang 25 và 40 về tương tác người-máy trong AI; có bối cảnh HCI nhưng thiếu bằng chứng trực tiếp tại trang 33."
+        },
+        "strategy_c": {
+          "score": 1,
+          "reason": "Giống Strategy B, grounding ở mức 1 (liên quan một phần nhưng thiếu điều kiện cốt lõi)."
+        }
+      },
+      {
+        "question_id": "q19",
+        "question": "In section 2.1 Computational Thinking, what does decomposition involve when tackling complex problems?",
+        "gold_page": 54,
+        "strategy_a": {
+          "score": 2,
+          "reason": "Top-3 trả về trang 53 ('Decomposition is a fundamental concept... breaking down complex problem into smaller parts'); cung cấp đầy đủ thông tin để trả lời bản chất decomposition."
+        },
+        "strategy_b": {
+          "score": 2,
+          "reason": "Top-1 và Top-2 trả về trang 51 và 53 giải thích chi tiết định nghĩa và vai trò của decomposition; đủ căn cứ grounding."
+        },
+        "strategy_c": {
+          "score": 2,
+          "reason": "Nhờ filter section '2.1 Computational Thinking', 100% kết quả đều nằm đúng section 2.1 và cung cấp trọn vẹn bằng chứng định nghĩa."
+        }
+      },
+      {
+        "question_id": "q20",
+        "question": "In the Chapter 1 Review, how is a spreadsheet defined?",
+        "gold_page": 43,
+        "strategy_a": {
+          "score": 2,
+          "reason": "Top-1 trả về trang 30 chứa định nghĩa nguyên văn của spreadsheet ('data-centric programming environment where data is organized into cells in a table'); đầy đủ căn cứ trả lời."
+        },
+        "strategy_b": {
+          "score": 2,
+          "reason": "Top-1 trả về trang 30 chứa đoạn phân tích spreadsheet với định nghĩa hoàn chỉnh; người dùng đủ bằng chứng trả lời chính xác."
+        },
+        "strategy_c": {
+          "score": 2,
+          "reason": "Giống Strategy B, grounding đạt điểm tối đa 2/2."
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "records_inspected": 15,
+    "valid_and_correct_records": 15,
+    "accuracy_ratio": "15/15 (100%)",
+    "filter_compliance": {
+      "test_filter_questions_count": 1,
+      "strategy_a_compliance": "N/A (no filter used)",
+      "strategy_b_compliance": "N/A (no filter used)",
+      "strategy_c_compliance": "1/1 (100% of top-3 chunks match section '2.1 Computational Thinking')"
+    },
+    "fields_evaluated": [
+      "source",
+      "page",
+      "chapter",
+      "section"
+    ],
+    "analysis": "Trường 'section' và 'chapter' giúp cô lập phạm vi tìm kiếm theo phân vùng tri thức, ngăn ngừa hiện tượng nhầm lẫn giữa định nghĩa sơ lược ở đầu sách và phần thảo luận chuyên sâu."
+  }
+}

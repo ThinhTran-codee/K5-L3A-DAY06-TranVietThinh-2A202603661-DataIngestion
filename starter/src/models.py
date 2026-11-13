@@ -20,3 +20,14 @@ class Chunk:
     page: int
     text: str
     metadata: dict[str, Any] = field(default_factory=dict)
+
+
+@dataclass
+class RetrievalHit:
+    chunk_id: str
+    document_id: str
+    source: str
+    page: int
+    text: str
+    score: float
+    metadata: dict[str, Any] = field(default_factory=dict)
