@@ -1,0 +1,281 @@
+{
+  "source_id": "openstax-intro-cs",
+  "title": "Introduction to Computer Science",
+  "authors": [
+    "Dr. Jean-Claude Franchitti",
+    "OpenStax Contributing Authors"
+  ],
+  "source_path_or_url": "https://openstax.org/details/books/introduction-computer-science",
+  "local_path": "starter/data/Introduction_To_Computer_Science_-_WEB.pdf",
+  "license_or_permission": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "accessed_at": "2026-11-13",
+  "corpus_scope": {
+    "total_physical_pages_in_pdf": 939,
+    "selected_start_page": 19,
+    "selected_end_page": 55,
+    "selected_content_pages_count": 37,
+    "page_filtering_rule": "Selected 37 contiguous core academic content pages from Chapter 1 (Introduction to Computer Science) and Chapter 2 (Computational Thinking). Excluded front matter (cover, preface, table of contents p1-18) and back matter.",
+    "total_characters": 117614
+  },
+  "pages": [
+    {
+      "page_id": "page_019",
+      "physical_page": 19,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "Introduction",
+      "char_count": 2484
+    },
+    {
+      "page_id": "page_020",
+      "physical_page": 20,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 3980
+    },
+    {
+      "page_id": "page_021",
+      "physical_page": 21,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 3239
+    },
+    {
+      "page_id": "page_022",
+      "physical_page": 22,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 2930
+    },
+    {
+      "page_id": "page_023",
+      "physical_page": 23,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 2979
+    },
+    {
+      "page_id": "page_024",
+      "physical_page": 24,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 3490
+    },
+    {
+      "page_id": "page_025",
+      "physical_page": 25,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 4863
+    },
+    {
+      "page_id": "page_026",
+      "physical_page": 26,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 2297
+    },
+    {
+      "page_id": "page_027",
+      "physical_page": 27,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 4412
+    },
+    {
+      "page_id": "page_028",
+      "physical_page": 28,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 4502
+    },
+    {
+      "page_id": "page_029",
+      "physical_page": 29,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.1 Computer Science",
+      "char_count": 2896
+    },
+    {
+      "page_id": "page_030",
+      "physical_page": 30,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.2 Computer Science across the Disciplines",
+      "char_count": 3658
+    },
+    {
+      "page_id": "page_031",
+      "physical_page": 31,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.2 Computer Science across the Disciplines",
+      "char_count": 4568
+    },
+    {
+      "page_id": "page_032",
+      "physical_page": 32,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.2 Computer Science across the Disciplines",
+      "char_count": 2760
+    },
+    {
+      "page_id": "page_033",
+      "physical_page": 33,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.2 Computer Science across the Disciplines",
+      "char_count": 3302
+    },
+    {
+      "page_id": "page_034",
+      "physical_page": 34,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.2 Computer Science across the Disciplines",
+      "char_count": 2708
+    },
+    {
+      "page_id": "page_035",
+      "physical_page": 35,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 2479
+    },
+    {
+      "page_id": "page_036",
+      "physical_page": 36,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 4352
+    },
+    {
+      "page_id": "page_037",
+      "physical_page": 37,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 3414
+    },
+    {
+      "page_id": "page_038",
+      "physical_page": 38,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 4345
+    },
+    {
+      "page_id": "page_039",
+      "physical_page": 39,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 2355
+    },
+    {
+      "page_id": "page_040",
+      "physical_page": 40,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 3099
+    },
+    {
+      "page_id": "page_041",
+      "physical_page": 41,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 4533
+    },
+    {
+      "page_id": "page_042",
+      "physical_page": 42,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "1.3 Computer Science and the Future of Society",
+      "char_count": 1179
+    },
+    {
+      "page_id": "page_043",
+      "physical_page": 43,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "Chapter 1 Review",
+      "char_count": 3236
+    },
+    {
+      "page_id": "page_044",
+      "physical_page": 44,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "Chapter 1 Review",
+      "char_count": 4525
+    },
+    {
+      "page_id": "page_045",
+      "physical_page": 45,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "Chapter 1 Review",
+      "char_count": 2240
+    },
+    {
+      "page_id": "page_046",
+      "physical_page": 46,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "Chapter 1 Review",
+      "char_count": 2514
+    },
+    {
+      "page_id": "page_047",
+      "physical_page": 47,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "Chapter 1 Review",
+      "char_count": 3329
+    },
+    {
+      "page_id": "page_048",
+      "physical_page": 48,
+      "chapter": "Chapter 1: Introduction to Computer Science",
+      "section": "Chapter 1 Review",
+      "char_count": 1075
+    },
+    {
+      "page_id": "page_049",
+      "physical_page": 49,
+      "chapter": "Chapter 2: Computational Thinking and Design Reusability",
+      "section": "Introduction",
+      "char_count": 2506
+    },
+    {
+      "page_id": "page_050",
+      "physical_page": 50,
+      "chapter": "Chapter 2: Computational Thinking and Design Reusability",
+      "section": "2.1 Computational Thinking",
+      "char_count": 3816
+    },
+    {
+      "page_id": "page_051",
+      "physical_page": 51,
+      "chapter": "Chapter 2: Computational Thinking and Design Reusability",
+      "section": "2.1 Computational Thinking",
+      "char_count": 2269
+    },
+    {
+      "page_id": "page_052",
+      "physical_page": 52,
+      "chapter": "Chapter 2: Computational Thinking and Design Reusability",
+      "section": "2.1 Computational Thinking",
+      "char_count": 2889
+    },
+    {
+      "page_id": "page_053",
+      "physical_page": 53,
+      "chapter": "Chapter 2: Computational Thinking and Design Reusability",
+      "section": "2.1 Computational Thinking",
+      "char_count": 3004
+    },
+    {
+      "page_id": "page_054",
+      "physical_page": 54,
+      "chapter": "Chapter 2: Computational Thinking and Design Reusability",
+      "section": "2.1 Computational Thinking",
+      "char_count": 2689
+    },
+    {
+      "page_id": "page_055",
+      "physical_page": 55,
+      "chapter": "Chapter 2: Computational Thinking and Design Reusability",
+      "section": "2.1 Computational Thinking",
+      "char_count": 2698
+    }
+  ]
+}
