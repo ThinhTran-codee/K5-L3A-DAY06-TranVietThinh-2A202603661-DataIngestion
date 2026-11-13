@@ -1,10 +1,16 @@
 __pycache__/
 .venv/
 .env
+**/.env
+starter/.env
 *.pyc
 
-.env.*
-!.env.example
+.env
+**/.env
+starter/.env.*
+!.env
+**/.env
+starter/.env.example
 .DS_Store
 .pytest_cache/
 *.sqlite
